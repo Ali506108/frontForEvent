@@ -14,9 +14,6 @@ const App = () => {
         <HeroSection />
         <FeatureSection />
         <Workflow />
-        <Pricing />
-        <Testimonials />
-        <Footer />
       </div>
     </>
   );

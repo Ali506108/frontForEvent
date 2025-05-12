@@ -5,26 +5,25 @@ const HeroSection = () => {
   return (
     <div className="flex flex-col items-center mt-6 lg:mt-20">
       <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
-        VirtualR build tools
+        инструменты для создания вашего
         <span className="bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text">
           {" "}
-          for developers
+          личного бренда через ИИ
         </span>
       </h1>
       <p className="mt-10 text-lg text-center text-neutral-500 max-w-4xl">
-        Empower your creativity and bring your VR app ideas to life with our
-        intuitive development tools. Get started today and turn your imagination
-        into immersive reality!
-      </p>
+        Раскройте свой потенциал и создайте уникальный бренд с помощью искусственного интеллекта! 
+        Загружайте свои идеи в GPT, делитесь ими с другими и воплощайте свои задумки в жизнь. 
+        Начните сегодня и превратите свои амбиции в реальность!      </p>
       <div className="flex justify-center my-10">
         <a
-          href="#"
+  href="https://wa.me/77087638739"
+  target="_blank"
+    rel="noopener noreferrer"
+
           className="bg-gradient-to-r from-orange-500 to-orange-800 py-3 px-4 mx-3 rounded-md"
         >
-          Start for free
-        </a>
-        <a href="#" className="py-3 px-4 mx-3 rounded-md border">
-          Documentation
+          консульта́ция 
         </a>
       </div>
       <div className="flex mt-10 justify-center">

@@ -13,10 +13,6 @@ import user5 from "../assets/profile-pictures/user5.jpg";
 import user6 from "../assets/profile-pictures/user6.jpg";
 
 export const navItems = [
-  { label: "Features", href: "#" },
-  { label: "Workflow", href: "#" },
-  { label: "Pricing", href: "#" },
-  { label: "Testimonials", href: "#" },
 ];
 
 export const testimonials = [
@@ -61,62 +57,44 @@ export const testimonials = [
 export const features = [
   {
     icon: <BotMessageSquare />,
-    text: "Drag-and-Drop Interface",
+    text: "Актуально",
     description:
-      "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
+      "ИИ — тренд современности! Используйте GPT для создания личного бренда, загружайте свои идеи и делитесь ими с аудиторией, чтобы быть на волне популярности.",
   },
   {
     icon: <Fingerprint />,
-    text: "Multi-Platform Compatibility",
+    text: "Полезно",
     description:
-      "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.",
+      "Экономьте время и усилия! С помощью ИИ вы легко создадите уникальный контент для своего бренда и сможете масштабировать его для широкой аудитории.",
   },
   {
     icon: <ShieldHalf />,
-    text: "Built-in Templates",
+    text: "Нужно",
     description:
-      "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
-  },
-  {
-    icon: <BatteryCharging />,
-    text: "Real-Time Preview",
-    description:
-      "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
-  },
-  {
-    icon: <PlugZap />,
-    text: "Collaboration Tools",
-    description:
-      "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
-  },
-  {
-    icon: <GlobeLock />,
-    text: "Analytics Dashboard",
-    description:
-      "Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.",
+      "Личный бренд — ключ к успеху! Настройте GPT под свои цели, делитесь идеями и привлекайте аудиторию, чтобы выделиться среди конкурентов.",
   },
 ];
 
 export const checklistItems = [
   {
-    title: "Code merge made easy",
+    title: "Создайте свой бренд с помощью ИИ",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Научитесь использовать GPT для создания персонализированной ИИ-модели, отражающей ваш стиль и ценности.",
   },
   {
-    title: "Review code without worry",
+    title: "Легко делитесь своим ИИ с аудиторией",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Загружайте данные, настраивайте модель и предоставляйте доступ другим для взаимодействия с вашим брендом.",
   },
   {
-    title: "AI Assistance to reduce time",
+    title: "Освойте ИИ на нашем курсе",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Пройдите обзор всех инструментов ИИ и узнайте, как они могут усилить ваш личный бренд.",
   },
   {
-    title: "Share work in minutes",
+    title: "Экономьте время с автоматизацией",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Используйте ИИ для автоматизации задач и сосредоточьтесь на развитии своего бренда.",
   },
 ];
 
